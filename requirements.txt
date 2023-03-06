@@ -1,0 +1,16 @@
+torch
+torchvision
+tensorflow == 1.14.0
+tqdm
+pandas
+numpy
+scipy == 1.2.0
+chumpy
+scikit-image
+imageio
+dominate
+torchfile
+ffmpeg
+python_speech_features
+smplx
+opencv-python
